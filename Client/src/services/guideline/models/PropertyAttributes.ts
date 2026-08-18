@@ -1,0 +1,24 @@
+// Copyright (c) 2025 Ekkodale GmbH. All rights reserved.
+//
+// This file is part of the gaeco platform system.
+//
+// Use of this file is governed by the terms of the license
+// in LICENSE.md at the root of this repository.
+// Unauthorized copying, modification, distribution, or use of this file,
+// via any medium, is strictly prohibited except as expressly permitted
+// under that license.
+
+/* istanbul ignore file */
+/* tslint:disable */
+/* eslint-disable */
+
+export enum PropertyAttributes {
+    '_0' = 0,
+    '_512' = 512,
+    '_1024' = 1024,
+    '_4096' = 4096,
+    '_8192' = 8192,
+    '_16384' = 16384,
+    '_32768' = 32768,
+    '_62464' = 62464,
+}
